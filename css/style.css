@@ -1,0 +1,10 @@
+body{font-family: 'Titillium Web', sans-serif !important;}
+h1, header p {text-align: center}
+header {
+  height: 90vh;
+  background: url(../Images/home.png) no-repeat center;
+        }
+        /*vh: unità di misura che indica l'altezza in base allo schermo da cui si sta guardando.
+        url(): richiamare un file o un qualsiasi collegamento
+        ../: dire che bisogna andare indietro dal file in cui si sta scrivendo
+        (ora siamo in css e quindi bisogna muoversi a ritrosoper entrare in Images)*/
